@@ -1,1 +1,1 @@
-SELECT * from Weasley;
+SELECT * FROM Weasley LIMIT 5;
