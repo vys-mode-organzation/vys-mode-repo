@@ -1,1 +1,1 @@
-SELECT * FROM user LIMIT 2;
+SELECT * FROM user LIMIT 89;
