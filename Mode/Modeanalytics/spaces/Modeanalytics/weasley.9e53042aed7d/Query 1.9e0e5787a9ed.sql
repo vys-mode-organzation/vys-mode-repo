@@ -1,1 +1,1 @@
-SELECT * FROM Weasley LIMIT 5;
+SELECT * FROM user LIMIT 50;
