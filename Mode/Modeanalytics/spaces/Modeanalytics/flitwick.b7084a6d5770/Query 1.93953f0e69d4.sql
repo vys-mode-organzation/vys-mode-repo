@@ -1,1 +1,1 @@
-select 23 from user;
+select 25 from user;
