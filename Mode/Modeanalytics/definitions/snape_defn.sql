@@ -1,1 +1,1 @@
-SELECT 123; --snape snape snape comments!
+SELECT 1
